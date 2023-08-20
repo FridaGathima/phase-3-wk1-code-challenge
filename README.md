@@ -1,7 +1,7 @@
 <h1> Phase 3 Week 1(Toy Problems)</h1>
  
 
-**Challenge 1: Converting 12-hour time to 24-hour time**
+<h2>Challenge 1: Converting 12-hour time to 24-hour time.</h2>
 
 Define a function, which will be given an hour (always in the range of 1 to 12, inclusive), a minute (always in the range of 0 to 59, inclusive), and a period (either "am" or "pm") as input.
 
@@ -15,14 +15,14 @@ On 12-hours clock, there is no 0 hour, and time just after midnight is denoted a
 
  
 
-**Challenge 2: Two numbers are positive.**
+<h2>Challenge 2: Two numbers are positive.</h2>
 
 Task:
 
 Your job is to write a function, which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise.
 
 
-**Challenge 3: Consonant value.**
+<h2>Challenge 3: Consonant value.</h2>
 
 Given a lowercase string that has alphabetic characters only and no spaces, return the highest value of consonant substrings. Consonants are any letters of the alphabet except "aeiou".We shall assign the following values: a = 1, b = 2, c = 3, .... z = 26.
 
@@ -37,21 +37,21 @@ For the word "strength", solve("strength") = 57.
 
 The consonant substrings are: "str" and "ngth" with values "str" = 19 + 20 + 18 = 57 and "ngth" = 14 + 7 + 20 + 8 = 49. The highest is 57.
 
-**Languages**
+<h2>Languages</h2>
 
 Python
 
-**Setup Requirements**
+<h2>Setup Requirements</h2>
 
 Python
 Github
 Git
 
-**Author**
+<h2>Author</h2>
 
 Frida Nduta Gathima 
 
-**Licence**
+<h2>Licence</h2>
 
 Copyright (c) 2023 Frida Nduta Gathima.
 
