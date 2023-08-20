@@ -13,7 +13,7 @@ By convention, noon is 12:00 pm, and midnight is 12:00 am.
 
 On 12-hours clock, there is no 0 hour, and time just after midnight is denoted as, for example, 12:15 am. On 24-hour clock, this translates to 0015. 
 
- 
+Navigate to **challenges folder** and then to the file, **time_converter.py** to see the solution to this problem.
 
 <h2>Challenge 2: Two numbers are positive.</h2>
 
@@ -21,6 +21,7 @@ Task:
 
 Your job is to write a function, which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise.
 
+Navigate to **challenges folder** and then to the file, **integer_checker.py** to see the solution to this problem.
 
 <h2>Challenge 3: Consonant value.</h2>
 
@@ -36,6 +37,8 @@ For example, for the word "zodiacs", let's cross out the vowels. We get: "z d cs
 For the word "strength", solve("strength") = 57.
 
 The consonant substrings are: "str" and "ngth" with values "str" = 19 + 20 + 18 = 57 and "ngth" = 14 + 7 + 20 + 8 = 49. The highest is 57.
+
+Navigate to **challenges folder** and then to the file, **consonant_value_checker.py** to see the solution to this problem.
 
 <h2>Languages</h2>
 
