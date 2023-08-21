@@ -47,7 +47,9 @@ Python
 <h2>Setup Requirements</h2>
 
 Python
+
 Github
+
 Git
 
 <h2>Author</h2>
